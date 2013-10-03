@@ -1,0 +1,10 @@
+author: davejavu
+name: ECHosting
+version: 1.0
+main: escapecraft.echosting.ECHosting
+commands:
+    toggle:
+        description: Toggle various mechanics per world or globally
+permissions:
+    echosting.toggle:
+        default: op
